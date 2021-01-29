@@ -1,0 +1,51 @@
+body {
+
+  background-image: url('mainback.jpg');
+  background-repeat: no-repeat;
+  background-attachment:no-fixed;
+  background-size: cover;
+}
+
+
+main:hover {
+  background-color: yellow;
+}
+
+.main {
+  border: 5px outset black;
+  background-color: #2f4f4e;
+  text-align: center;
+  width: 75%;
+  margin-left: 15%;
+}
+
+.Maxat {
+  border: 5px outset black;
+  background-color: #2f4f4e;
+  text-align: center;
+  width: 25%;
+  height: 400px;
+  margin-left: 15%;
+}
+
+
+.Amina {
+  border: 5px outset black;
+  background-color: #2f4f4e;
+  text-align: center;
+  width: 25%;
+  height: 400px;
+  margin-top: -400px;
+  margin-left: 40%;
+}
+
+
+.Nurkhan {
+  border: 5px outset black;
+  background-color: #2f4f4e;
+  text-align: center;
+  width: 25%;
+  height: 400px;
+  margin-top: -400px;
+  margin-left: 65%;
+}
